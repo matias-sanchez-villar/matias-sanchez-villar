@@ -1,6 +1,6 @@
 - 👋 Hola soy @matias-sanchez-villar
 - 👀 Estoy interesado en la programacion, las base de datos y en el futuro del desarrollo web.
-- 🌱 Actualmente estoy aprendiendo C#, C++, SQL, MYSQL, PHP, HTML Y CSS.
+- 🌱 Actualmente estoy aprendiendo JavaScript, React, Node, Mongo, SQL y Java.
 - 💞️ Estoy buscando colaborar en cualquier proyecto que me ayude a crecer, para poder aprender y mejorar mis habilidades.
 - 📫  Cómo llegar a mí a través de mi correo matuite96@gmail.com o a través de mi [linkedin](https://www.linkedin.com/in/matias-sanchez-villar/)
 
